@@ -1,0 +1,10 @@
+{
+  "name": "hello",
+  "plan": {
+    "projectType": "Productivity System",
+    "platform": "react",
+    "description": "planty",
+    "projectName": "hello"
+  },
+  "template": "react"
+}
